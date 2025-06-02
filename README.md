@@ -8,3 +8,6 @@
 + Uses a basic ANN with two hidden layers
 + Web interface built using Streamlit
 + Users can upload digit images (28x28 grayscale) for prediction
+
+### Web App
+🔗 Live Demo:https://huggingface.co/spaces/saramneena/Handwritten_Digit_Recognizer
